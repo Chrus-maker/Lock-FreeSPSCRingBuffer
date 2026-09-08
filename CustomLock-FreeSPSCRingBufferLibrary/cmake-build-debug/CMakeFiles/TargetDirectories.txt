@@ -1,0 +1,3 @@
+/Users/star2/CLionProjects/CustomLock-FreeSPSCRingBufferLibrary/cmake-build-debug/CMakeFiles/CustomLock_FreeSPSCRingBufferLibrary.dir
+/Users/star2/CLionProjects/CustomLock-FreeSPSCRingBufferLibrary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/star2/CLionProjects/CustomLock-FreeSPSCRingBufferLibrary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

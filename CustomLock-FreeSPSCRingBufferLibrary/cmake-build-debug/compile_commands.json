@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/star2/CLionProjects/CustomLock-FreeSPSCRingBufferLibrary/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/CustomLock_FreeSPSCRingBufferLibrary.dir/main.cpp.o -c /Users/star2/CLionProjects/CustomLock-FreeSPSCRingBufferLibrary/main.cpp",
+  "file": "/Users/star2/CLionProjects/CustomLock-FreeSPSCRingBufferLibrary/main.cpp",
+  "output": "/Users/star2/CLionProjects/CustomLock-FreeSPSCRingBufferLibrary/cmake-build-debug/CMakeFiles/CustomLock_FreeSPSCRingBufferLibrary.dir/main.cpp.o"
+}
+]
